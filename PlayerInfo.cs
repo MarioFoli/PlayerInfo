@@ -14,7 +14,7 @@ namespace PlayerInfo
 	{
 		public override Version Version
 		{
-			get { return new Version(1, 8); }
+			get { return new Version(1, 9); }
 		}
 
 		public override string Name
@@ -24,7 +24,7 @@ namespace PlayerInfo
 
 		public override string Author
 		{
-			get { return "Comdar"; }
+			get { return "Comdar, updated by MarioFoli"; }
 		}
 
 		public override string Description
